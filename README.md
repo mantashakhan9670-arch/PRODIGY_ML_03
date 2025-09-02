@@ -1,4 +1,5 @@
 # PRODIGY_ML_03
+TASK-1
 🚀 Prodigy Infotech – Responsive Web Design
 
 Welcome to the Responsive Web Design Task created for Prodigy Infotech. This project demonstrates a fully responsive landing page that adapts seamlessly across all devices — from desktops to tablets and smartphones.
