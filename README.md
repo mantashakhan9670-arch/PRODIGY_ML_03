@@ -1,37 +1,34 @@
 # PRODIGY_ML_03
-TASK-1
-🚀 Prodigy Infotech – Responsive Web Design
+TASK-2
+🚀 STOPWATCH WEB APPLICATION 
+⏱️ Stopwatch Web Application – Prodigy Infotech
 
-Welcome to the Responsive Web Design Task created for Prodigy Infotech. This project demonstrates a fully responsive landing page that adapts seamlessly across all devices — from desktops to tablets and smartphones.
+This project is a simple and interactive Stopwatch Web Application developed as part of the Web Development internship offered by Prodigy Infotech. The application allows users to start, stop, reset, and resume the stopwatch with an intuitive interface and smooth user experience.
 
-✨ Features:
+🔧 Features
 
-📱 Mobile-first design ensuring optimal viewing on all screen sizes
+✅ Start, Stop, and Reset functionality
 
-💻 Clean, modern layout with intuitive navigation
-🎨 Visually appealing UI with smooth scrolling and interactive elements
+⏳ Resume from pause
 
-⚙️ HTML, CSS & JavaScript based implementation (can include frameworks if used)
+🕒 Displays elapsed time in HH:MM:SS format
 
-🌐 Cross-browser compatibility
+📱 Fully responsive UI (works on mobile, tablet, and desktop)
 
-🛠️ Technologies Used:
+🎨 Minimal and clean design with interactive buttons
 
-HTML5
+🛠️ Tech Stack
 
-CSS3 (Media Queries for responsiveness)
+HTML5 – for structure
 
-JavaScript (optional for interactivity)
+CSS3 – for styling and responsiveness
 
-(Bootstrap or any framework, if used)
+JavaScript (Vanilla) – for stopwatch logic and interactivity
 
-💼 This project is part of my internship assignment with Prodigy Infotech under the Web Development domain, focusing on building responsive and user-friendly web applications.
+🎯 Objective
 
-Would you like this tailored for GitHub, a portfolio, or submitted as a formal report?
+The goal of this task was to implement real-time functionality using JavaScript while applying responsive web design principles. It demonstrates the understanding of DOM manipulation, event handling, and time-based operations in JavaScript.
 
-You said:
-coding on responsive landing page
-ChatGPT said:
-
-Sure! Here's a complete responsive landing page code using HTML and CSS (mobile-first approach). It features a modern layout with a header, hero section, features, and a footer. No frameworks are used — just pure HTML5 and CSS3 with media queries for responsiveness.
+🧑‍💻 Task Completed as part of: Web Development Internship @ Prodigy Infotech
+📁 Task Title: Stopwatch Web Application
 
